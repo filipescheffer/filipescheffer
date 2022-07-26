@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/filipescheffer/"><i>Filipe Scheffer</i></a> 😃️</h1>
-  <p align="center"> Sou graduado em Administração de Empresas, e graduando em Análise e Desenvolvimento de Sistemas.</a><br>
+  <p align="center"> Sou bacharel em Administração de Empresas, e graduando em Análise e Desenvolvimento de Sistemas.</a><br>
   <p align="center"> Venho me dedicando desde Agosto/2021 à área de Quality Assurance (QA), e aqui no meu perfil você encontrará alguns dos projetos já realizados! </a><br>
   </div>
 
