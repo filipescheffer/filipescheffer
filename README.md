@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/filipescheffer/"><i>Filipe Scheffer</i></a> 😃️</h1>
-  <p align="center"> Sou bacharel em Administração de Empresas, e graduando em Análise e Desenvolvimento de Sistemas.</a><br>
+  <p align="center"> Sou bacharel em Administração de Empresas (2017), e graduando em Análise e Desenvolvimento de Sistemas (2023) pela ULBRA - Torres/RS.</a><br>
   <p align="center"> Venho me dedicando desde Agosto/2021 à área de Quality Assurance (QA), e aqui no meu perfil você encontrará alguns dos projetos já realizados! </a><br>
   </div>
 
@@ -16,7 +16,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipescheffer&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
 <div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
